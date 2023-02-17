@@ -1,0 +1,23 @@
+## ChatGpt list of prompts for US Drug Overdoes Deaths (1992 - 2020)
+
+```
+    Import the necessary libraries
+    Load the overdose death data
+    Examine the data
+    Drop the 'notes' column
+    Check for null values
+    Drop null values
+    Convert the data types of the columns
+    Check the data types of the columns
+    Plot the number of overdose deaths per year
+    Plot the number of overdose deaths per year, grouped by the type of drug involved
+    Create a new dataframe that doesn't include the year column
+    Create a line plot for each column in the new dataframe
+    Change the line plots to be displayed in a grid
+    Change the line plots to be displayed in a 3x3 grid
+    Change the line plots to be displayed in a 2x2 grid
+    Create histograms for each column in the new dataframe
+    Change the histograms to be displayed in a grid
+    Change the histograms to be displayed in a 2x2 grid
+    Increase the size of the histogram figures by 25%
+    Suggest another plot type
